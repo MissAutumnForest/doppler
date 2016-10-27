@@ -1,0 +1,22 @@
+{
+  "name": "doppler",
+  "version": "1.0.0",
+  "description": "[This is an implementation](https://danielrapp.github.io/doppler/) of the [SoundWave paper](http://research.microsoft.com/en-us/um/redmond/groups/cue/publications/guptasoundwavechi2012.pdf) on the web. It enables you to detect motion using only the microphone and speakers!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielRapp/doppler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielRapp/doppler/issues"
+  },
+  "homepage": "https://github.com/DanielRapp/doppler#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
